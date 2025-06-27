@@ -4,7 +4,7 @@
 const user :{
     readonly Company : string;
     firstName: string;
-    middleName?: string | undefined; // optional type 
+    middleName? : string | undefined; // optional type 
     lastName: string;
 }
 = {
