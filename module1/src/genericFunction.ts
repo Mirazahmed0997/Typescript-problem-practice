@@ -10,7 +10,8 @@
     const res1 = createArrayWithGeneric<boolean>(true)
     const res2 = createArrayWithGeneric<string>("Miraz")
     const res3 = createArrayWithGeneric<User> ({name:"Miraz",id:11})
-
+    
+    
 
 
 
